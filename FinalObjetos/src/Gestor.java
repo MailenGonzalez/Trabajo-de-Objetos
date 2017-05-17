@@ -99,11 +99,7 @@ public class Gestor {
 	public static void main(String[] args){
 		Gestor gestor= new Gestor();
 		gestor.readExcelFile(new File("C:/Users/carlos/Downloads/respuestas.xls"));
-		//esto es un comentario
-		int i =0;
-		i++;
 	}
-	
 
 	
 
