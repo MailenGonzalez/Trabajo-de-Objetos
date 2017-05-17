@@ -100,7 +100,10 @@ public class Gestor {
 		Gestor gestor= new Gestor();
 		gestor.readExcelFile(new File("C:/Users/carlos/Downloads/respuestas.xls"));
 		//esto es un comentario
+		int i =0;
+		i++;
 	}
+	
 
 	
 
